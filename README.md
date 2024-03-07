@@ -6,7 +6,7 @@
 <br>
 ③DEMO<br>
 　　https://chiecoep.github.io/kadai03_chat/<br>
-    <img src="demo.jpg"><br>
+    <img src="demo.jpg" width="50px"><br>
 <br>
 ④工夫した点・こだわった点<br>
 　  新しい投稿を下に表示させ、デフォルトを最下表示にしました<br>
