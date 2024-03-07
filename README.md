@@ -5,7 +5,7 @@
 　 LINE風チャットアプリ、投稿の修正削除ができます<br>
 <br>
 ③DEMO<br>
-　　https://chiecoep.github.io/kadai04_chat/<br>
+　　https://chiecoep.github.io/kadai03_chat/<br>
 <br>
 ④工夫した点・こだわった点<br>
 　  見た目をかわいく、見やすくしました<br>
